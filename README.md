@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Abid Hussain</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
-
 - 💬 Ask me about **react.js, next.js, and others**
 
 - 📫 How to reach me **abidhussain0495@gmail.com**
